@@ -60,5 +60,5 @@
 <br>
 ## 📫 Contact
  
-- Email: 이메일을-넣어주세요
+- Email: izu16589@gmail.com
 - GitHub: [@dorong0330](https://github.com/dorong0330)
