@@ -36,7 +36,7 @@
 - **팀** 4인
 - **역할** C4 모델 기반 아키텍처 설계, Use Case 분석, UI 디자인, 시퀀스 다이어그램 작성
 - **Stack** React (SPA) · FastAPI · Figma
-- 🔗 [Repository](https://github.com/seongwonjae/lofo.git))
+- 🔗 [Repository](https://github.com/seongwonjae/lofo.git)
 ### 🚔 치안 통계 기반 거주지 탐색 앱 DB 설계 `데이터베이스 팀 과제 · 진행 중`
 > 경기북부경찰청 경찰서별 5대 범죄 발생·검거 공공데이터를 활용한 거주지 탐색 서비스
  
